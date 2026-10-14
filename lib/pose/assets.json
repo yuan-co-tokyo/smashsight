@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "base": "/pose-assets/tasks-vision-1.0.1",
+  "modelPath": "/pose-assets/pose_landmarker_full-float16-v1.task",
+  "modelUrl": "https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_full/float16/1/pose_landmarker_full.task",
+  "modelSha256": "5134a3aad27a58b93da0088d431f366da362b44e3ccfbe3462b3827a839011b1"
+}
